@@ -1,0 +1,142 @@
+[
+	{
+		"name": {
+			"firstName": "Rebecca",
+			"lastName": "Jones"
+		},
+		"locations": [
+			{
+				"city": "San Diego",
+				"state": "California"
+			},
+			{
+				"city": "Seattle",
+				"state": "Washington"
+			},
+			{
+				"city": "San Fransisco",
+				"state": "California"
+			}
+		],
+		"phones": [
+			"123-456-7890",
+			"123-456-7890",
+			"123-456-7890"
+		],
+		"emails": [
+			"email1@email.com",
+			"email2@email.com",
+			"email@email.com"
+		]
+	},
+	{
+		"name": {
+			"firstName": "Robert",
+			"lastName": "Jones"
+		},
+		"locations": [
+			{
+				"city": "Temecula",
+				"state": "California"
+			},
+			{
+				"city": "Tacoma",
+				"state": "Washington"
+			},
+			{
+				"city": "Los Angles",
+				"state": "California"
+			},
+			{
+				"city": "Salt Lake City",
+				"state": "Utah"
+			}
+		],
+		"phones": [
+			"123-456-7890",
+			"123-456-7890",
+			"123-456-7890",
+			"123-456-7890"
+		],
+		"emails": [
+			"email1@email.com",
+			"email1@email.com",
+			"email2@email.com",
+			"email@email.com"
+		]
+	},
+	{
+		"name": {
+			"firstName": "John",
+			"lastName": "Jones"
+		},
+		"locations": [
+			{
+				"city": "Salt Lake City",
+				"state": "Utah"
+			},
+			{
+				"city": "Temecula",
+				"state": "California"
+			},
+			{
+				"city": "Tacoma",
+				"state": "Washington"
+			},
+			{
+				"city": "Los Angles",
+				"state": "California"
+			}
+		],
+		"phones": [
+			"123-456-7890",
+			"123-456-7890",
+			"123-456-7890",
+			"123-456-7890"
+		],
+		"emails": [
+			"email1@email.com",
+			"email1@email.com",
+			"email2@email.com",
+			"email@email.com"
+		]
+	},
+	{
+		"name": {
+			"firstName": "John",
+			"lastName": "Smith"
+		},
+		"locations": [
+			{
+				"city": "Provo",
+				"state": "Utah"
+			}
+		],
+		"phones": [
+		],
+		"emails": [
+			"email1@email.com"
+		]
+	},
+	{
+		"name": {
+			"firstName": "Jessica",
+			"lastName": "Smith"
+		},
+		"locations": [
+			{
+				"city": "New York",
+				"state": "New York"
+			},
+			{
+				"city": "Dallas",
+				"state": "Texas"
+			}
+		],
+		"phones": [
+			"123-456-7890"
+		],
+		"emails": [
+		]
+	}
+]
